@@ -1,9 +1,33 @@
 
 E
 src/models/Human.java,6\f\6ffc8c3b27e1b2f8aae66afd404b987960523a52
-E
-src/models/Livre.java,6\b\6b6d37f62680be80ff75ac750b3c86cfa8552fb0
 N
 src/models/CompteBancaire.java,0\d\0de536f61922c5d8ee66be62be51842defbf68dc
-=
-src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+S
+#src/models/Ex1Ex2Encapsulation.java,2\b\2bdb1b1f2c6d5b3e5df35387b52334db9c8fcd7d
+A
+src/models/A.java,7\7\77a7568e6ad6a1b87baf93fd7f824d1be5e615a6
+E
+src/models/Livre.java,6\b\6b6d37f62680be80ff75ac750b3c86cfa8552fb0
+R
+"src/gestionTransport/Vehicule.java,2\5\2570609c1ace5af7674eebacb3ea21b92bcb8650
+Q
+!src/gestionTransport/Voiture.java,4\8\486065ffb41b4574a0a55eb12f2e8c750f894b06
+P
+ src/gestionTransport/Camion.java,3\5\35bb1522d928439b08b38808591989e7c1c1eec8
+N
+src/gestionTransport/Main.java,f\6\f6dfa547c47a76a68412308e1a619842f9f70e8f
+O
+src/gestionProduit/Produit.java,5\b\5bb009f283419db4eb801e1a257c95cac5114e0f
+X
+(src/gestionProduit/ProduitPromotion.java,f\b\fbd3967795a27195e1dad2f5db50c342528a838a
+U
+%src/gestionProduit/ProduitSoldes.java,0\1\01df43291fea05d3183e7a96c15249cbe6d2fa38
+L
+src/gestionProduit/Main.java,f\d\fd9a2864939800846bf09916ae17272886be2852
+M
+src/cinemaApp/CinemaHall.java,b\3\b3112df43f287d4302c107bcf53cc75c44cb2d90
+L
+src/cinemaApp/CinemaApp.java,e\3\e3d517d51cffd16862493f387f83241d426ede6a
+G
+src/cinemaApp/Seat.java,c\2\c2d55523128f124e9065014e358bccdbbf5f07af
