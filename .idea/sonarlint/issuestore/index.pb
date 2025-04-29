@@ -31,3 +31,19 @@ L
 src/cinemaApp/CinemaApp.java,e\3\e3d517d51cffd16862493f387f83241d426ede6a
 G
 src/cinemaApp/Seat.java,c\2\c2d55523128f124e9065014e358bccdbbf5f07af
+T
+$src/gestionEmployees/Entreprise.java,9\7\97eb819a673ed7351a0273356d05954e0ca4f535
+Q
+!src/gestionEmployees/Employe.java,b\6\b6d7a7c8c36a314060867141dd031c00b6e06167
+U
+%src/gestionEmployees/Developpeur.java,8\4\842b3b3c2a1ad9b80acfda898dc864f3cb736f00
+Q
+!src/gestionEmployees/Manager.java,0\3\03a103389122bfee4619542d1d78f7aa36f3dfa7
+I
+src/Abstraction/Demo.java,6\4\64ed9e987f0d930b5fd17d0b7f3928af7f4f768a
+N
+src/gestionEmployees/Main.java,f\a\fa16759325f5476a9e3d9d7f6fb0ac860833c6c6
+^
+.src/Abstraction/PlateformeQuiz/Difficulty.java,d\a\da5fdfa3b8077542f51d79deb5edc5b5a6934069
+\
+,src/Abstraction/PlateformeQuiz/Question.java,d\9\d97d815f2c0233c5e3bde2f4f9ec2c52f9b1ea95
