@@ -47,3 +47,33 @@ N
 .src/Abstraction/PlateformeQuiz/Difficulty.java,d\a\da5fdfa3b8077542f51d79deb5edc5b5a6934069
 \
 ,src/Abstraction/PlateformeQuiz/Question.java,d\9\d97d815f2c0233c5e3bde2f4f9ec2c52f9b1ea95
+=
+src/Main.java,9\2\924f089edb4af5ee45c8a9d1129cd28e2b368138
+Q
+!src/FunctionalInterface/Demo.java,f\0\f0ef868161c27886ed7e6f4197079f2f86b15a9b
+H
+src/Exceptions/Demo.java,d\7\d7705deb4f0a567e3c1d8e4fa0632a4eae84dc7f
+e
+5src/Exceptions/ExerciceDevise/DeviseIncompatible.java,7\8\78d84953223245885d730929ac5b6865cbe05cc1
+Z
+*src/Exceptions/ExerciceDevise/Monnaie.java,1\5\1514a55b5e0dfec512a63e1d1276221356bfbf37
+^
+.src/Exceptions/ExerciceDevise/TestMonnaie.java,8\4\84dadd6ba5a5c03bbc5391cd9b163abd3c141f7d
+]
+-src/Exceptions/Seriesexercices/Exercice1.java,1\4\14e7a3ebba65440fccd66f6ba7c319cb5873f257
+]
+-src/Exceptions/Seriesexercices/Exercice2.java,4\9\49d63e9a2636a332b591a6bd4b670ddf94a934af
+]
+-src/Exceptions/Seriesexercices/Exercice3.java,e\d\ed6078fa6b04dff92c0f4140ca2284974da50315
+]
+-src/Exceptions/Seriesexercices/Exercice4.java,f\0\f0ae4f5c49f8a60f5fecd0f6333a639a436b084d
+P
+ src/Generics/IntegerPrinter.java,5\d\5d812e659bb1b01280b2327ebdf15729d4d4c801
+O
+src/Generics/DoublePrinter.java,2\5\255c4d8563fe62c4e1660accb6c422458d98bbad
+I
+src/Generics/Printer.java,d\4\d417e60c55820399b4e407b2ea6d0101904374b6
+O
+src/Generics/StringPrinter.java,8\8\88d64e8e9019b25b9c8b0337c9954330c802cde4
+Q
+!src/Generics/GenericsExemple.java,2\3\2373741cb04870706dc887dc26b6f936791d4208
